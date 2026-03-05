@@ -11,8 +11,7 @@ Um exemplo: Microsoft (Azure Virtual Desktop)
 Exemplo: Google Cloud Plataform
   -  Iaas: Infraestrutura como serviço: Aluga base da máquina: servidor, armazenamento, rede. É como alugar uma casa só com água e energia, completamente sem nada.
  Exemplo: Amazon Web Service
-  - Paas: No Iaas você monta o computador. No Paas, ele já vem montado e com sistema operacional.
-  - Serve para desenvolvedores que querem focar no código e não na infraestrutura.
+  - Paas: No Iaas você monta o computador. No Paas, ele já vem montado e com sistema operacional. Serve para desenvolvedores que querem focar no código e não na infraestrutura.
 Exemplo:  Netflix
   - Saas: Software totalmente pronto. Nada de instalar, configurar servidor ou programar.
 Exemplo: Microsoft 365
