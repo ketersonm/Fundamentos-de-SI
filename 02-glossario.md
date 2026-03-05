@@ -10,8 +10,7 @@ Neste arquivo, são armazenadas palavras ou expressões estuadads na disciplina,
 Um exemplo: Microsoft (Azure Virtual Desktop)
   - DBaaS: Aluga um banco de dados pronto na nuvem. Sem instalar MySQL e sem configurar o servidor. Serve para aplicações que precisam armazenar dados sem gerenciar estrutura.
 Exemplo: Google Cloud Plataform
-  -  Iaas: Infraestrutura como serviço:
-  -   Aluga base da máquina: servidor, armazenamento, rede. É como alugar uma casa só com água e energia, completamente sem nada.
+  -  Iaas: Infraestrutura como serviço: Aluga base da máquina: servidor, armazenamento, rede. É como alugar uma casa só com água e energia, completamente sem nada.
  Exemplo: Amazon Web Service
   - Paas: No Iaas você monta o computador. No Paas, ele já vem montado e com sistema operacional.
   - Serve para desenvolvedores que querem focar no código e não na infraestrutura.
