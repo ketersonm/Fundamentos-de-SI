@@ -13,11 +13,14 @@ Exemplo: Google Cloud Plataform
  Exemplo: Amazon Web Service
   - Paas: No Iaas você monta o computador. No Paas, ele já vem montado e com sistema operacional. Serve para desenvolvedores que querem focar no código e não na infraestrutura.
 Exemplo:  Netflix
-  - Saas: Software totalmente pronto. Nada de instalar, configurar servidor ou programar.
+  - Saas: Modelo do Software como negócio, como serviço. Software totalmente pronto. Nada de instalar, configurar servidor ou programar.
 Exemplo: Microsoft 365
   -SECaas: Ferramentas de segurança hospedadas na nuvem: Antivirus, firewall, monitoramento de ameaças
 Exemplo: Cisco
 
-  - <b>Cloud computing:</b> Computação em nuvem
-  - <b>Apps:</b> Software instalado em equipamento
-  - <b>IoT:</b> Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico.
+  - <b> Web -> Cloud computing:</b> Computação em nuvem
+  - Apps: Software instalado em equipamento
+  -  IoT: Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico.
+  -  Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
+  -  Desvantagens: Segurança, dependência
+  - <b>Imperícia:</b> Irresponsabilidade para com coisas importantes, como atualização de sistemas críticos
