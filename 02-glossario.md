@@ -3,8 +3,10 @@ Neste arquivo, são armazenadas palavras ou expressões estuadads na disciplina,
 
 ## Palavras ou expressões
   - <b>Sistema</b>: conjunto de elementos que interagem entre si em prol de solucionar e fazer funcionar um esquema
+    
   - <b>Arquitetutra de computadores</b>: Ela define como os componentes de hardware (processador, memória, entrada/saída) interagem e são organizados para executar instruções e processar dados.
-  - <b>Modelos de Arquitetura</b>:
+    
+  - <b>Modelos de Arquitetura</b>: (Contratação de serviços)
   - Daas: Computador virtual completo pela internet: seu desktop roda na nuvem. Empresas alugam  para que seus funcionários trabalgem remotamente.
 Um exemplo: Microsoft (Azure Virtual Desktop)
   - DBaaS: Aluga um banco de dados pronto na nuvem. Sem instalar MySQL e sem configurar o servidor. Serve para aplicações que precisam armazenar dados sem gerenciar estrutura.
