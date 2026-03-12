@@ -20,3 +20,4 @@ Exemplo: Cisco
 
   - <b>Cloud computing:</b> Computação em nuvem
   - <b>Apps:</b> Software instalado em equipamento
+  - <b>IoT:</b> Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico.
