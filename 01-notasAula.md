@@ -1,12 +1,7 @@
 # Notas de aula da disciplina
 
 ## Aula 4
-  - Desktop
-  - Web --> Cloud Computing - computação em nuvem
-  - Apps (Software instalado em equipamento)
-  - Navegador
-  - IoT Internet of Things
-
+  - Disucussão da tarefa sobre modelos de arquiteturais
 
 
 
