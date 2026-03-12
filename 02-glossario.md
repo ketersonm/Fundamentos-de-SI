@@ -17,3 +17,6 @@ Exemplo:  Netflix
 Exemplo: Microsoft 365
   -SECaas: Ferramentas de segurança hospedadas na nuvem: Antivirus, firewall, monitoramento de ameaças
 Exemplo: Cisco
+
+  - <b>Cloud computing:</b> Computação em nuvem
+  - <b>Apps:</b> Software instalado em equipamento
