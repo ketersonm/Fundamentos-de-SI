@@ -1,5 +1,20 @@
 # Notas de aula da disciplina
 
+## Aula 4
+  - Desktop
+  - Web --> Cloud Computing - computação em nuvem
+  - Apps (Software instalado em equipamento)
+  - Navegador
+  - IoT Internet of Things
+
+
+
+
+
+
+
+
+
 ## Aula 3
   - apresentação da Oficina de Git -https://github.com/alexandrezamberlan/oficinaGit
   - Apresentação, discussão e 1o trabalhho avaliado
