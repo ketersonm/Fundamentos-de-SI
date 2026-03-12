@@ -24,3 +24,4 @@ Exemplo: Cisco
   -  Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
   -  Desvantagens: Segurança, dependência
   - <b>Imperícia:</b> Irresponsabilidade para com coisas importantes, como atualização de sistemas críticos
+  - <b>Virtualização de Maquinas:</b> Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
