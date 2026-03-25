@@ -27,3 +27,9 @@ Exemplo: Cisco
     -  Desvantagens: Segurança, dependência
     - <b>Imperícia:</b> Irresponsabilidade para com coisas importantes, como atualização de sistemas críticos
     - <b>Virtualização de Maquinas:</b> Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
+
+  - <b>Tipos de Sistemas de Informações</b>:
+  - Sistemas de Processamento de Transações (SPTs): Sistemas responsaveis por registrar e processar operações rotineiras do dia a dia, como vendas, pagamentos e estoque.
+  - Sistemas de Informação Gerencial (SIGs): Sistemas que acompanham a monitoração, o controle, a tomada de decisão e as atividades admnistrativas.
+  - Sistemas de Apoio à Decisão (SADs): Sistemas que auxiliam os gerentes de nivel medio a tomar decisões que não são comuns.
+  - Sistemas de Apoio ao Executivo (SAEs): Sistemas voltados para alta administração, com informações estratégicas e indicadores de desempenho.
