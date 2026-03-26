@@ -39,3 +39,5 @@ Exemplo: Cisco
   - R retrieve
   - U update
   - D delete
+
+   - <b>ERP:</b> solução de software de gestão integrada que centraliza dados de departamentos como financeiro, RH, vendas, estoque e produção. Ele automatiza fluxos de trabalho e conecta processos, eliminando o uso de planilhas separadas e garantindo uma visão única e em tempo real da empresa, o que facilita a tomada de decisão.
