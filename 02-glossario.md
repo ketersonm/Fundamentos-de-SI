@@ -33,3 +33,9 @@ Exemplo: Cisco
   - Sistemas de Informação Gerencial (SIGs): Sistemas que acompanham a monitoração, o controle, a tomada de decisão e as atividades admnistrativas.
   - Sistemas de Apoio à Decisão (SADs): Sistemas que auxiliam os gerentes de nivel medio a tomar decisões que não são comuns.
   - Sistemas de Apoio ao Executivo (SAEs): Sistemas voltados para alta administração, com informações estratégicas e indicadores de desempenho.
+
+  - <b>CRUD:</b>
+  - C create
+  - R retrieve
+  - U update
+  - D delete
