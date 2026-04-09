@@ -20,13 +20,7 @@ Exemplo: Microsoft 365
     -SECaas: Ferramentas de segurança hospedadas na nuvem: Antivirus, firewall, monitoramento de ameaças
 Exemplo: Cisco
 
-  - <b> Web -> Cloud computing:</b> Computação em nuvem
-    - Apps: Software instalado em equipamento
-    -  IoT: Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico.
-    -  Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
-    -  Desvantagens: Segurança, dependência
-    - <b>Imperícia:</b> Irresponsabilidade para com coisas importantes, como atualização de sistemas críticos
-    - <b>Virtualização de Maquinas:</b> Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
+
 
   - <b>Tipos de Sistemas de Informações</b>:
   - Sistemas de Processamento de Transações (SPTs): Sistemas responsaveis por registrar e processar operações rotineiras do dia a dia, como vendas, pagamentos e estoque.
@@ -40,8 +34,19 @@ Exemplo: Cisco
   - U update
   - D delete
 
-   - <b>ERP:</b> solução de software de gestão integrada que centraliza dados de departamentos como financeiro, RH, vendas, estoque e produção. Ele automatiza fluxos de trabalho e conecta processos, eliminando o uso de planilhas separadas e garantindo uma visão única e em tempo real da empresa, o que facilita a tomada de decisão.
+  - <b>ERP:</b> solução de software de gestão integrada que centraliza dados de departamentos como financeiro, RH, vendas, estoque e produção. Ele automatiza fluxos de trabalho e conecta processos, eliminando o uso de planilhas separadas e garantindo uma visão única e em tempo real da empresa, o que facilita a tomada de decisão.
 
-   -  <b>THROUGPUT:</b> Transações que um sistema consegue responder
+  -  <b>THROUGPUT:</b> Transações que um sistema consegue responder
+    
+  -    <b> Web -> Cloud computing:</b> Computação em nuvem
+    - Apps: Software instalado em equipamento
+    -  IoT: Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico, uma tomada inteligente, Alexa, etc.
+    -  Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
+    -  Desvantagens: Segurança, dependência
+    - <b>Imperícia:</b> Irresponsabilidade para com coisas importantes, como atualização de sistemas críticos
+    - <b>Virtualização de Maquinas:</b> Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
+    - <b>Sistemas Pervasivos:</b> Dispositivos presentes do cotidiano, onipresentes. Geralmente são conectados e podem compartilhar informações em prol da experiencia do usuario. ELa impulsiona a IoT.
+    - <b>Sistemas Ubíquos:</b> Presença inperceptivel de dispositivos inteligentes no cotidiano, podendo ser estar presentes em móveis, roupas e em outros objetos do dia-a-dia. São bem interativos e adaptaveis, favorecendo uma boa experiência personalizada.
+
 
 
