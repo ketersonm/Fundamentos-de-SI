@@ -1,6 +1,12 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 6
+  - Internet das coisas: todo lugar, todo momento e conectada
+  - Sistemas Pervasivos versus Sistemas Ubíquos
+
+
+
 
 ## Aula 5
   - Tarefa avaliativa
