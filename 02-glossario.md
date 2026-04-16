@@ -34,22 +34,28 @@ Exemplo: Cisco
   - U update
   - D delete
 
- - TCP/IP: Conjuno de protocolos que definem como dispositivos conectados conversam entre si.<b>ERP:</b> solução de software de gestão integrada que centraliza dados de departamentos como financeiro, RH, vendas, estoque e produção. Ele automatiza fluxos de trabalho e conecta processos, eliminando o uso de planilhas separadas e garantindo uma visão única e em tempo real da empresa, o que facilita a tomada de decisão.
+ - TCP/IP: Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
+    - <b>ERP:</b> solução de software de gestão integrada que centraliza dados de departamentos como financeiro, RH, vendas, estoque e produção. Ele automatiza fluxos de trabalho e conecta processos, eliminando o uso de planilhas separadas e garantindo uma visão única e em tempo real da empresa, o que facilita a tomada de decisão.
 
- - TCP/IP: Conjuno de protocolos que definem como dispositivos conectados conversam entre si.<b>THROUGPUT:</b> Transações que um sistema consegue responder
+  - <b>THROUGPUT:</b> Transações que um sistema consegue responder
     
- - TCP/IP: Conjuno de protocolos que definem como dispositivos conectados conversam entre si.<b> Web -> Cloud computing:</b> Computação em nuvem
-  - Apps: Software instalado em equipamento
-  - IoT: Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico, uma tomada inteligente, Alexa, etc.
-  - Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
-  - Desvantagens: Segurança, dependência
-  - Imperícia: Irresponsabilidade para com coisas importantes, como atualização de sistemas críticos
-  - Virtualização de Maquinas: Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
-  - Sistemas Pervasivos: Dispositivos presentes do cotidiano, onipresentes. Geralmente são conectados e podem compartilhar informações em prol da experiencia do usuario. ELa impulsiona a IoT.
-  - Sistemas Ubíquos: Presença inperceptivel de dispositivos inteligentes no cotidiano, podendo ser estar presentes em móveis, roupas e em outros objetos do dia-a-dia. São bem interativos e adaptaveis, favorecendo uma boa experiência personalizada.
+
+  - <b> Web -> Cloud computing:</b> Computação em nuvem
+    - Apps: Software instalado em equipamento
+    - IoT: Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico, uma tomada inteligente, Alexa, etc.
+    - Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
+    - Desvantagens: Segurança, dependência
+    - Imperícia: Irresponsabilidade para com coisas importantes, como atualização de sistemas críticos
+    - Virtualização de Maquinas: Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
+    - Sistemas Pervasivos: Dispositivos presentes do cotidiano, onipresentes. Geralmente são conectados e podem compartilhar informações em prol da experiencia do usuario. ELa impulsiona a IoT.
+    - Sistemas Ubíquos: Presença inperceptivel de dispositivos inteligentes no cotidiano, podendo ser estar presentes em móveis, roupas e em outros objetos do dia-a-dia. São bem interativos e adaptaveis, favorecendo uma boa experiência personalizada.
     
-    TCP/IP: Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
-  - Protocolo: Regras de comunicação
+  - <b>TCP/IP:</b> Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
+    - Protocolo: Regras de comunicação
+  - <b>Como Mitigar a Vulnerabilidade no TCP/IP?</b> 
+    - Criptografia: É importante sempre utilizar protocolos seguros, como: HTTPS, MQTT e TLS.
+    - Autnticação: Colocar meios de validar a identidade de quem vai acessar a IoT, impedindo que dispositivos mal intensionados acessem.
+    - Redundância e Isolamento de Redes: Criar duplicidade de coisas importantes para criar meios alternativos para trasnmissão de dados. 
 
 
 
