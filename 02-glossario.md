@@ -47,6 +47,8 @@ Exemplo: Cisco
   -   <b>Virtualização de Maquinas:</b> Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
   -   <b>Sistemas Pervasivos:</b> Dispositivos presentes do cotidiano, onipresentes. Geralmente são conectados e podem compartilhar informações em prol da experiencia do usuario. ELa impulsiona a IoT.
   -   <b>Sistemas Ubíquos:</b> Presença inperceptivel de dispositivos inteligentes no cotidiano, podendo ser estar presentes em móveis, roupas e em outros objetos do dia-a-dia. São bem interativos e adaptaveis, favorecendo uma boa experiência personalizada.
+  -   <b>TCP/IP:</b> Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
+  -   <b>Protocolo:</b> Regras de comunicação
 
 
 
