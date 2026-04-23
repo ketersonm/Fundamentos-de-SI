@@ -17,6 +17,10 @@ Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
       - coluna5 (teste ou testing)
       - Fazer sempre as mais dificeis
       - Colocar notas de 1 a 5 nas atividades, sendo 1 muito dificil e 5 muito facil
+  - Atividade:
+      - pesquisar e colocar no glossario pessoal:
+      - os conceitos de tecnica vs metodologia
+      - pesquisar como integrar (se existe) trello com github
    
 ## Aula 6
   - Internet das coisas: todo lugar, todo momento e conectada
