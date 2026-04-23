@@ -66,7 +66,8 @@ Exemplo: Cisco
       - coluna5 (teste ou testing)
       - Fazer sempre as mais dificeis
       - Colocar notas de 1 a 5 nas atividades, sendo 1 muito dificil e 5 muito facil
-  - <b>Metodologia:</b> A metodologia descreve a estratégia geral que dita como as pesquisas e estudos devem ser realizados
+  - <b>Metodologia vs Tecnica:</b> A metodologia é o estudo detalhado dos métodos, técnicas e procedimentos estruturados utilizados para realizar uma pesquisa.
+  -  Uma técnica é um conjunto de regras, normas ou protocolos que se utiliza como meio para chegar a uma certa meta.
   - <b>Tem como integrar trello com github?</b> Tem, sim. Se faz por meio do power up do quadro no trello.
       
 
