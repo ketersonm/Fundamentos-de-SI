@@ -55,7 +55,8 @@ Exemplo: Cisco
   - <b>Como Mitigar a Vulnerabilidade no TCP/IP?</b> 
     - Criptografia: É importante sempre utilizar protocolos seguros, como: HTTPS, MQTT e TLS.
     - Autnticação: Colocar meios de validar a identidade de quem vai acessar a IoT, impedindo que dispositivos mal intensionados acessem.
-    - Redundância e Isolamento de Redes: Criar duplicidade de coisas importantes para criar meios alternativos para trasnmissão de dados. 
+    - Redundância e Isolamento de Redes: Criar duplicidade de coisas importantes para criar meios alternativos para trasnmissão de dados.
+    - Monitoramento e Detecção de Intrusões: Implementar sistemas de monitoramento para detectar comportamentos suspeitos e prevenir intrusões.
 
 
 
