@@ -65,7 +65,9 @@ Exemplo: Cisco
       - coluna4 (travado ou frozen)
       - coluna5 (teste ou testing)
       - Fazer sempre as mais dificeis
-      - Colocar notas de 1 a 5 nas atividades, sendo 1 muito dificil e 5 muito facil****
+      - Colocar notas de 1 a 5 nas atividades, sendo 1 muito dificil e 5 muito facil
+  - <b>Metodologia:</b> A metodologia descreve a estratégia geral que dita como as pesquisas e estudos devem ser realizados
+  - <b>Tem como integrar trello com github?</b> Tem, sim. Se faz por meio do power up do quadro no trello.
       
 
 
