@@ -15,6 +15,8 @@ Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
       - coluna3 (feito ou done)
       - coluna4 (travado ou frozen)
       - coluna5 (teste ou testing)
+      - Fazer sempre as mais dificeis
+      - Colocar notas de 1 a 5 nas atividades, sendo 1 muito dificil e 5 muito facil
    
 ## Aula 6
   - Internet das coisas: todo lugar, todo momento e conectada
