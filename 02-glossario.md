@@ -64,6 +64,8 @@ Exemplo: Cisco
       - coluna3 (feito ou done)
       - coluna4 (travado ou frozen)
       - coluna5 (teste ou testing)
+      - Fazer sempre as mais dificeis
+      - Colocar notas de 1 a 5 nas atividades, sendo 1 muito dificil e 5 muito facil****
       
 
 
