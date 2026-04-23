@@ -57,6 +57,14 @@ Exemplo: Cisco
     - Autnticação: Colocar meios de validar a identidade de quem vai acessar a IoT, impedindo que dispositivos mal intensionados acessem.
     - Redundância e Isolamento de Redes: Criar duplicidade de coisas importantes para criar meios alternativos para trasnmissão de dados.
     - Monitoramento e Detecção de Intrusões: Implementar sistemas de monitoramento para detectar comportamentos suspeitos e prevenir intrusões.
+  - <b>Sistema Kanban:</b> METODOLOGIA DE GERENCIAMENTO DE TAREFAS/ATIVIDADES: TRELLO
+      - foi criado pela toyota: com postit
+      - coluna1 (a fazer ou to do)
+      - coluna2 (fazendo ou doing)
+      - coluna3 (feito ou done)
+      - coluna4 (travado ou frozen)
+      - coluna5 (teste ou testing)
+      
 
 
 
