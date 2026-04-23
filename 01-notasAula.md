@@ -1,6 +1,21 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 7
+  - Boas praticas de desenvolvimento de software em grupo ou equipe
+  - Sistema de Versionamento de codigo: git + github
+    - controla versoes
+    - controla backups
+    - controla equipes no desenvolvimento coletivo
+    - ...
+  -  Sistema Kanban: METODOLOGIA DE GERENCIAMENTO DE TAREFAS/ATIVIDADES: TRELLO
+      - foi criado pela toyota: com postit
+      - coluna1 (a fazer ou to do)
+      - coluna2 (fazendo ou doing)
+      - coluna3 (feito ou done)
+      - coluna4 (travado ou frozen)
+      - coluna5 (teste ou testing)
+   
 ## Aula 6
   - Internet das coisas: todo lugar, todo momento e conectada
   - Sistemas Pervasivos versus Sistemas Ubíquos
