@@ -38,7 +38,6 @@ Exemplo: Cisco
 
   - <b> Web -> Cloud computing:</b> Computação em nuvem
     - Apps: Software instalado em equipamento
-    - Arquitetura cliente-servidor
     - IoT: Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico, uma tomada inteligente, Alexa, etc.
     - Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
     - Desvantagens: Segurança, dependência
@@ -51,6 +50,42 @@ Exemplo: Cisco
   - R retrieve
   - U update
   - D delete
+  - TCP/IP: Conjunto de protocolos que definem como dispositivos conectados conversam entre si.
+  - ERP: solução de software de gestão integrada que centraliza dados de departamentos como financeiro, RH, vendas, estoque e produção. Ele automatiza fluxos de trabalho e conecta processos, eliminando o uso de planilhas separadas e garantindo uma visão única e em tempo real da empresa, o que facilita a tomada de decisão.
+  - THROUGPUT: Transações que um sistema consegue responder
+
+
+
+
+
+
+  
+  - <b>Arquitetura cliente-servidor (exemplo dado em aula)</b>
+    - Sistema operacional ubuntu 22.04
+    -  SGBD MysQL
+    -  Firewall nativo S.O
+    -  Gunicorn
+    -  Nginx
+    -  python-Django-Bootsrap
+        - funcionalidades = servidor
+        - gestão == CRUD
+          
+  - <b>Sistema gestão de Pizzaria (exemplo de sistema de gestão)</b>
+      - apps = serviços = funcionalidades
+      - CRUD
+      - gestão de usuario
+      - gestão de insumos
+      - gestão de fornecedor
+           - gestão fornecedor-insumo
+      - gestão de pizza-insumo
+      - período
+      - gestão do cliente
+      - gestao cliente-pizza
+      - sistema de conhecimento
+      - serviço CRM: gerenciamento da relação com os clientes, sem excluir quem ainda não é, tratando-os como possibilidades. Ele organiza dados de forma automática e centraliza o histórico de interações, permitindo personalizar vendas, melhorar a retenção e aumentar a eficiência do time comercial.
+   
+
+    
     
   - <b>TCP/IP:</b> Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
     - Protocolo: Regras de comunicação
