@@ -28,11 +28,7 @@ Exemplo: Cisco
   - Sistemas de Apoio à Decisão (SADs): Sistemas que auxiliam os gerentes de nivel medio a tomar decisões que não são comuns.
   - Sistemas de Apoio ao Executivo (SAEs): Sistemas voltados para alta administração, com informações estratégicas e indicadores de desempenho.
 
-  - <b>CRUD:</b>
-  - C create
-  - R retrieve
-  - U update
-  - D delete
+
 
  - TCP/IP: Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
     - <b>ERP:</b> solução de software de gestão integrada que centraliza dados de departamentos como financeiro, RH, vendas, estoque e produção. Ele automatiza fluxos de trabalho e conecta processos, eliminando o uso de planilhas separadas e garantindo uma visão única e em tempo real da empresa, o que facilita a tomada de decisão.
@@ -50,6 +46,11 @@ Exemplo: Cisco
     - Virtualização de Maquinas: Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
     - Sistemas Pervasivos: Dispositivos presentes do cotidiano, onipresentes. Geralmente são conectados e podem compartilhar informações em prol da experiencia do usuario. ELa impulsiona a IoT.
     - Sistemas Ubíquos: Presença inperceptivel de dispositivos inteligentes no cotidiano, podendo ser estar presentes em móveis, roupas e em outros objetos do dia-a-dia. São bem interativos e adaptaveis, favorecendo uma boa experiência personalizada.
+  - <b>CRUD:</b>
+  - C create
+  - R retrieve
+  - U update
+  - D delete
     
   - <b>TCP/IP:</b> Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
     - Protocolo: Regras de comunicação
