@@ -1,6 +1,34 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 8
+  - Sistema web
+  - Arquitetura cliente-servidor
+    - Sistema operacional ubuntu 22.04
+    -  SGBD MysQL
+    -  Firewall nativo S.O
+    -  Gunicorn
+    -  Nginx
+    -  python-Django-Bootsrap
+        - funcionalidades = servidor
+        - gestão == CRUD
+          
+  - Sistema gestão de Pizzaria
+      - apps = serviços = funcionalidades
+      - CRUD
+      - gestão de usuario
+      - gestão de insumos
+      - gestão de fornecedor
+           - gestão fornecedor-insumo
+      - gestão de pizza-insumo
+      - período
+      - gestão do cliente
+      - gestao cliente-pizza
+      - sistema de conhecimento
+      - serviço CRM: gerenciamento da relação com o cliente
+    
+
+
 ## Aula 7
   - Boas praticas de desenvolvimento de software em grupo ou equipe
   - Sistema de Versionamento de codigo: git + github
