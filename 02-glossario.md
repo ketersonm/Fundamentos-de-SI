@@ -42,6 +42,7 @@ Exemplo: Cisco
 
   - <b> Web -> Cloud computing:</b> Computação em nuvem
     - Apps: Software instalado em equipamento
+    - Arquitetura cliente-servidor
     - IoT: Internet of Things (Internet das Coisas), é a nuvem onde todas as coisas do cotidiano estão conectadas, bem como um carro elétrico, uma tomada inteligente, Alexa, etc.
     - Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
     - Desvantagens: Segurança, dependência
