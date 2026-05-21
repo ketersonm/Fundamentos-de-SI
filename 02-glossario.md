@@ -55,14 +55,46 @@ Exemplo: Cisco
   - TCP/IP: Conjunto de protocolos que definem como dispositivos conectados conversam entre si.
   - ERP: solução de software de gestão integrada que centraliza dados de departamentos como financeiro, RH, vendas, estoque e produção. Ele automatiza fluxos de trabalho e conecta processos, eliminando o uso de planilhas separadas e garantindo uma visão única e em tempo real da empresa, o que facilita a tomada de decisão.
   - THROUGPUT: Transações que um sistema consegue responder
+  - <b>TCP/IP:</b> Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
+    - Protocolo: Regras de comunicação
+  - <b>Como Mitigar a Vulnerabilidade no TCP/IP?</b> 
+    - Criptografia: É importante sempre utilizar protocolos seguros, como: HTTPS, MQTT e TLS.
+    - Autnticação: Colocar meios de validar a identidade de quem vai acessar a IoT, impedindo que dispositivos mal intensionados acessem.
+    - Redundância e Isolamento de Redes: Criar duplicidade de coisas importantes para criar meios alternativos para trasnmissão de dados.
+    - Monitoramento e Detecção de Intrusões: Implementar sistemas de monitoramento para detectar comportamentos suspeitos e prevenir intrusões.
+
+  - <b>Virtual Machine (VM):</b> Maquina virtual que emula um computador (hospedeiro), muitas das vezes com SO distintos, em um computador principal (host). Serve para testar SO, principalmente.
+    - EX: Virtual Box da Oracle
+  - <b>VENV (Virtual Environment):</b> É um módulo nativo do Python utilizado para criar ambientes virtuais isolados. Sua principal função é evitar conflitos de dependencias.
+    - EX: python -m venv .venv
+  - <b>Docker:</b> Cria ambientes virtuais, que podem comportar SO e ainda podem ser compartilhadas entre outros usuarios. Quase a mesma coisa que VENV.
+    - Passo a passo para instalar:
+      - 1) baixar o Docker.
+        2) crie uma pasta para usar mais tarde
+        3) criar uma pasta sem .txt, sem nada, com o nome Dockerfile
+        4) abra o arquivo com o vscode
+        5) adicione isso no arquivo pelo terminal: FROM node:18-alpine; WORKDIR /app; COPY . .; RUN npm install; EXPOSE 3000; CMD ["node", "serve.js"]
+        6) construir a imagem: docker build -t minha-primeira-app .
+        7) rodar o container: docker run -d -p 3000:3000 minha-primeira-app
+        
+
+   
 
 
+  - <b>Sistema Kanban:</b> METODOLOGIA DE GERENCIAMENTO DE TAREFAS/ATIVIDADES: TRELLO
+      - foi criado pela toyota: com postit
+      - coluna1 (a fazer ou to do)
+      - coluna2 (fazendo ou doing)
+      - coluna3 (feito ou done)
+      - coluna4 (travado ou frozen)
+      - coluna5 (teste ou testing)
+      - Fazer sempre as mais dificeis
+      - Colocar notas de 1 a 5 nas atividades, sendo 1 muito dificil e 5 muito facil
+  - <b>Metodologia vs Tecnica:</b> A metodologia é o estudo detalhado dos métodos, técnicas e procedimentos estruturados utilizados para realizar uma pesquisa.
+  -  Uma técnica é um conjunto de regras, normas ou protocolos que se utiliza como meio para chegar a uma certa meta.
+  - <b>Tem como integrar trello com github?</b> Tem, sim. Se faz por meio do power up do quadro no trello.
 
-
-
-
-  
-  - <b>Arquitetura cliente-servidor (exemplo dado em aula)</b>
+ - <b>Arquitetura cliente-servidor (exemplo dado em aula)</b>
     - Sistema operacional ubuntu 22.04
     -  SGBD MysQL
     -  Firewall nativo S.O
@@ -85,30 +117,7 @@ Exemplo: Cisco
       - gestao cliente-pizza
       - sistema de conhecimento
       - serviço CRM: gerenciamento da relação com os clientes, sem excluir quem ainda não é, tratando-os como possibilidades. Ele organiza dados de forma automática e centraliza o histórico de interações, permitindo personalizar vendas, melhorar a retenção e aumentar a eficiência do time comercial.
-   
 
-    
-    
-  - <b>TCP/IP:</b> Conjuno de protocolos que definem como dispositivos conectados conversam entre si.
-    - Protocolo: Regras de comunicação
-  - <b>Como Mitigar a Vulnerabilidade no TCP/IP?</b> 
-    - Criptografia: É importante sempre utilizar protocolos seguros, como: HTTPS, MQTT e TLS.
-    - Autnticação: Colocar meios de validar a identidade de quem vai acessar a IoT, impedindo que dispositivos mal intensionados acessem.
-    - Redundância e Isolamento de Redes: Criar duplicidade de coisas importantes para criar meios alternativos para trasnmissão de dados.
-    - Monitoramento e Detecção de Intrusões: Implementar sistemas de monitoramento para detectar comportamentos suspeitos e prevenir intrusões.
-  - <b>Sistema Kanban:</b> METODOLOGIA DE GERENCIAMENTO DE TAREFAS/ATIVIDADES: TRELLO
-      - foi criado pela toyota: com postit
-      - coluna1 (a fazer ou to do)
-      - coluna2 (fazendo ou doing)
-      - coluna3 (feito ou done)
-      - coluna4 (travado ou frozen)
-      - coluna5 (teste ou testing)
-      - Fazer sempre as mais dificeis
-      - Colocar notas de 1 a 5 nas atividades, sendo 1 muito dificil e 5 muito facil
-  - <b>Metodologia vs Tecnica:</b> A metodologia é o estudo detalhado dos métodos, técnicas e procedimentos estruturados utilizados para realizar uma pesquisa.
-  -  Uma técnica é um conjunto de regras, normas ou protocolos que se utiliza como meio para chegar a uma certa meta.
-  - <b>Tem como integrar trello com github?</b> Tem, sim. Se faz por meio do power up do quadro no trello.
-      
 
 
 
