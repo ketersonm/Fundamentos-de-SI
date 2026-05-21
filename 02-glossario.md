@@ -42,7 +42,9 @@ Exemplo: Cisco
     - Vantagens: Flexibilidade, agilidade, autonomia  e integração de tecnologias
     - Desvantagens: Segurança, dependência
     - Imperícia: Irresponsabilidade para com coisas importantes, como atualização de sistemas críticos
-    - Virtualização de Maquinas: Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos
+    - Virtualização de Maquinas: Criar máquinas virtuais de servidores, storages ou redes em um único hardware físico, otimizando recursos e reduzindo custos. Com host e hóspede
+    - sistemas utilitarios: descompactador, antivirus
+    - Sistemas aplicados: Vscode, excel
     - Sistemas Pervasivos: Dispositivos presentes do cotidiano, onipresentes. Geralmente são conectados e podem compartilhar informações em prol da experiencia do usuario. ELa impulsiona a IoT.
     - Sistemas Ubíquos: Presença inperceptivel de dispositivos inteligentes no cotidiano, podendo ser estar presentes em móveis, roupas e em outros objetos do dia-a-dia. São bem interativos e adaptaveis, favorecendo uma boa experiência personalizada.
   - <b>CRUD:</b>
