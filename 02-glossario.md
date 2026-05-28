@@ -67,7 +67,7 @@ Exemplo: Cisco
     - EX: Virtual Box da Oracle
   - <b>VENV (Virtual Environment):</b> É um módulo nativo do Python utilizado para criar ambientes virtuais isolados. Sua principal função é evitar conflitos de dependencias.
     - EX: python -m venv .venv
-  - <b>Docker:</b> Cria ambientes virtuais, que podem comportar SO e ainda podem ser compartilhadas entre outros usuarios. Quase a mesma coisa que VENV.
+  - <b>Docker:</b> Cria ambientes virtuais, containers, que podem comportar SO e ainda podem ser compartilhadas entre outros usuarios. Quase a mesma coisa que VENV.
     - Passo a passo para instalar:
       - 1) baixar o Docker.
         2) crie uma pasta para usar mais tarde
