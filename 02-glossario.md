@@ -117,7 +117,24 @@ Exemplo: Cisco
       - gestao cliente-pizza
       - sistema de conhecimento
       - serviço CRM: gerenciamento da relação com os clientes, sem excluir quem ainda não é, tratando-os como possibilidades. Ele organiza dados de forma automática e centraliza o histórico de interações, permitindo personalizar vendas, melhorar a retenção e aumentar a eficiência do time comercial.
+        
+  - <b>Governança:</b> É o conjunto de diretrizes, políticas e processos que alinham a tecnologia da informação aos objetivos estratégicos da sua empresa. Ela determina quem toma as decisões e como os recursos tecnológicos devem ser usados
+    
+  - <b>LGPD para Desenvolvedores:</b> A lei exige a integração de privacidade e segurança diretamente no código. Existem 10 principais fundamentais que orientam o desenvolvimento de softwares, apps e bancos de dados seguros, éticos e em conformidade.
+      - São os fundamentos:
+      - Finalidade: O software só deve coletar e processar dados para propósitos legítimos, específicos e informados ao usuário.
+      - Adequação: O processamento deve ser compatível com as finalidades informadas. Evite o "uso criativo" de dados pessoais para outros fins sem autorização.
+      - Necessidade: Colete apenas o mínimo de dados essenciais para entregar a funcionalidade. Não é para pedir informações extras "só por garantia"
+      - Livre Acesso: O sistema deve permitir que os usuários consultem facilmente os dados estão armazenados
+      - Qualidade: Garanta que os dados sejam exatos, claros e atualizados.
+      - Transparência: Forneça informações claras e precisas aos usuários sobre quem trata os dados e como são utilizados.
+      - Segurança: Implemente medidas técnicas para proteger os dados contra acessos não autorizados e vazamentos.
+      - Prevenção: Adote medidas proativas para prevenir a ocorrência de danos aos titulares dos dados.
+      - Não Discriminação: Os dados nunca podem ser tratados para fins discriminatórios, ilícitos ou abusivos.
+      - Responsabilização e Prestação de contas: Demonstre a adoção de medidas eficazes para cumprir as regras da lei.
 
 
+  - <b>O que é Privacy by Design:</b> É uma metodologia que orienta o desenvolvimento de produtos, serviços e sistemas incorporando a proteção de dados pessoais desde a fase de planejamento, e não como um complemento posterior.
+  - <b>O que são Dados Sensíveis?:</b> Dados sensíveis são um tipo especial de dado pessoal que revela aspectos íntimos e que, se expostos, podem gerar discriminação ou graves danos ao indivíduo. 
 
 
